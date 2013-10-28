@@ -6,7 +6,7 @@
         id        = "com.articulosiete.app-noticias"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Noticias Articulo Siete</name>
 
     <description>
         Aplicacion para ver las notas al momento de Articulo Siete
